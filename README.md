@@ -1,4 +1,4 @@
-# Hayatta-Kalma
+# Survival Game Project Demo - With Pro Inventory System
 
 Bu oyun projesi kapsamında H1Z1 oyununun envanter sistemi klonlanarak Unreal Engine üzerinde yeniden oluşturulmuştur.
 Tüm kodlar görsel kodlama aracı olan Blueprint yardımıyla hazırlanmıştır.
